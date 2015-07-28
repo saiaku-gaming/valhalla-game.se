@@ -17,7 +17,7 @@ Or rather, I will begin by taking a small part of our game design and explain ho
 Remember when you played World of Warcraft and some quest giver said: "I need X amout of the item Y" or "Kill X amout if the creature Y"? My guess is that every player that have played MMORPGs have encountered way to many quests of that kind. 
 
 The basic premises is that you are given a quest or challenge and you gain a reward that you want; usually the main component is experience. But was the quest the fun part of WoW? I don't think so. Did you feel joy when you killed the 10th boar and it finally has a [ribcage](http://www.wowhead.com/item=2677/boar-ribs#dropped-by) (yeah, most of the boars in WoW are lacking rib cages)? 
-
+![Why do all NPCs want me to kill something...]({{ site.url }}/public/images/wow-kill-more.jpg)
 What happened to me at least was a feeling of satisfaction that the number of items increased closer to the number needed to stop doing what I was doing. I did not want to kill boars. I did not want to circle around waiting for a new ribbless boar to spawn. And I really really did not care that the NPC had such an urgent need for boar ribs that he sent everyone he encountered on a quest for them. All I wanted was progress for some reason. It might have been the story that intrigued me or I wanted to get to the end game to see the dungeons, or it might have been as easy as I was playing with a friend and grinding quests in WoW was just a pastime activity that fitted well into the jibber-jabber with my friends.
 
 
