@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Exclude
+exclude:          ["example"]
+
+# Setup
+title:            A Journey Into Valhalla
+tagline:          Instance focused MMORPG
+description:      "A blog about a indie game in production."
+url:              http://valhalla-game.se
+baseurl:          /
+
+author:
+  name:           'Mikael Berglund'
+  url:            http://flamingfox.se
+
+paginate:         5
