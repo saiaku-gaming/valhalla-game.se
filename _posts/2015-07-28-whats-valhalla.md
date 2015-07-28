@@ -22,6 +22,7 @@ What happened to me at least was a feeling of satisfaction that the number of it
 
 
 // TODO:
+
 * Grinding is often tied to questing and progress of things like map exploration and storyline progress.
 * Grinding can make you optimize and learn a lot of things such as:
     - skills effectiveness
@@ -34,4 +35,5 @@ What happened to me at least was a feeling of satisfaction that the number of it
     - Eve Onlines learning in real time.
     - Guild Wars low level and stuff like dynamic events.
 * Where does dungeons/instances fit in?
-* 
+
+
