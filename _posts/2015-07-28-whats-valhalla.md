@@ -2,7 +2,6 @@
 layout: post
 title: The problem with Grinding?
 ---
-# Why do we want to make yet another (M)MORPG.
 
 This is the first post in what hopefully will be a series of post where I will try to explain what's wrong with the current big MMORPGs out there and explain the design decisions we are taking while making our game. 
 
