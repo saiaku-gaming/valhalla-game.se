@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's 'Journey Into Valhalla'?
+title: What's *Journey Into Valhalla*?
 ---
 <p class="message">
   Hi there! This page is not done yet!
@@ -36,11 +36,30 @@ It is a slow and steady way to learn the abilities and game mechanics in the gam
 
 The other MMORPGs out there have noticed the problem as well and some managed to fix it better than others.
 
-WoW rested system.
+The rested system introduced in WoW was In my opinion the strangest of moves. What it means is that if you don't play often you can effectively need to grind only half as much as you are rested and receives twice as much experience for everything. While this might be a healthy way to go at it (making sure that the games takes pauses). It does not really fix the issue at hand.
 
+Eve Onlines has some strange game mechanic that works like this:
 
-- Eve Onlines learning in real time.
-- Guild Wars low level and stuff like dynamic events.
+1. Press the button to learn something.
+2. Wait in realtime (you don't need to be in game).
+3. ..
+4. Profit
 
+It's a way to make learning something realistic that it takes time (kinda), but it does not require anything of the player other than waiting and of course making sure to learn the right stuff as you cannot learn stuff in parallel.
 
+Guild Wars did a different take on the solution, first and foremost the game is quick to level up to max level and it's easy to get the best gear. That is statistically the best gear. People have spent an eternity to get most aesthetic pleasing sword, and Legendary weapons in Guild Wars is really awesome as you can see below: <iframe width="560" height="315" src="https://www.youtube.com/embed/DrBbD2L37xM" frameborder="0" allowfullscreen></iframe>
 
+## Our solution!
+
+Just do the fun part. Guild Wars was on the right track, but they did not push it far enough. We only want to have the instance gaming (single player or dungeons with lots of people) and the only grinding possible would be mass doing instances.
+
+But how to we keep "the good parts", well thats something we haven't decided yet and I think that is going to be one of the big challenges for us.
+
+So what we need to figure out right now is:
+
+1. How do we slowly introduce the player to skills so that the learning curve wont be to steep.
+2. Same thing with other game mechanics, specially with regards to UI feedback.
+
+We do believe that we don't need to introduce the player to the basics of moving etc. as the gamers that are going to find this game probably already have spent some time in one of the many MMOs out there.
+
+So in the end we are going to make the bold move to only keep the instances from MMORPGs and just throw away all the prelude that every other game keep on insisting is necessary and I do believe we can pull it of.
