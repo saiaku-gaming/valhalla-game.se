@@ -51,7 +51,7 @@ Guild Wars did a different take on the solution, first and foremost the game is 
 
 ## Our solution!
 
-Just do the fun part. Guild Wars was on the right track, but they did not push it far enough. We only want to have the instance gaming (single player or dungeons with lots of people) and the only grinding possible would be mass doing instances.
+Just do the fun part. Guild Wars was on the right track, but they did not push it far enough. We only want to have the instance gaming (single player or dungeons with lots of people) and the only grinding possible would be mass doing instances. No more waiting for something to spawn or needing 10 random items. Every instance will have a real reason behind it and a (hard to achieve) goal.
 
 But how to we keep "the good parts", well thats something we haven't decided yet and I think that is going to be one of the big challenges for us.
 
