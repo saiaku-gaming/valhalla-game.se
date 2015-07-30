@@ -23,7 +23,7 @@ What happened to me at least was the same feeling as when vacuuming the floor, t
 
 ## Is Grinding progress?
 
-Grinding is often tied to questing and progress of things like map exploration and storyline progress. That is, to make the story progress you are often forced to make a lot of meaningless tasks from NPCs. If those task was hard there would at least be a feeling of accomplishment tied to it, but usually in MMORPGs the tasks are quite simple. I believe this is to cater to the casual player. It's important to note that grinding is enabling everyone to be maxed out in the end. No matter how casual. This is an important part game design that makes sure that everyone can partake in everything. Unfortunately that also means that the casual players effectively controls the difficulty of a big part of the game.
+Grinding is often tied to questing and progress of things like map exploration and storyline. That is, to make the story progress you are often forced to make a lot of meaningless tasks from NPCs. If those task was hard there would at least be a feeling of accomplishment tied to it, but usually in MMORPGs the tasks are quite simple. I believe this is to cater to the casual player. It's important to note that grinding is enabling everyone to be maxed out in the end. No matter how casual. This is an important part game design that makes sure that everyone can partake in everything. Unfortunately that also means that the casual players effectively controls the difficulty of a big part of the game.
 
 But there is some advantages from grinding. Grinding can make you optimize and learn a lot of things such as:
     - skills effectiveness
