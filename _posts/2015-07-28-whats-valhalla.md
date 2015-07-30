@@ -49,6 +49,8 @@ It's a way to make learning something realistic that it takes time (kinda), but 
 
 Guild Wars did a different take on the solution, first and foremost the game is quick to level up to max level and it's easy to get the best gear. That is statistically the best gear. People have spent an eternity to get most aesthetic pleasing sword, and Legendary weapons in Guild Wars is really awesome as you can see below: <iframe width="560" height="315" src="https://www.youtube.com/embed/DrBbD2L37xM" frameborder="0" allowfullscreen></iframe>
 
+So while you still could grind in Guild Wars, it was fairly quick and painless. And with the addition of jump puzzles, dynamic events, and a fairly good storyline the Guild Wars grind experience kinda worked.
+
 ## Our solution!
 
 Just do the fun part. Guild Wars was on the right track, but they did not push it far enough. We only want to have the instance gaming (single player or dungeons with lots of people) and the only grinding possible would be mass doing instances. No more waiting for something to spawn or needing 10 random items. Every instance will have a real reason behind it and a (hard to achieve) goal.
