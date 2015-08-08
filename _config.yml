@@ -10,14 +10,10 @@ relative_permalinks: true
 exclude:          ["example"]
 
 # Setup
-title:            A Journey Into Valhalla
-tagline:          Instance focused MMORPG
-description:      "A blog about a indie game in production."
+title:            A Journey in Valhalla
+tagline:          Instance focused MORPG
+description:      "A blog about an indie game in production."
 url:              http://valhalla-game.se
 baseurl:          /
-
-author:
-  name:           'Mikael Berglund'
-  url:            http://flamingfox.se
 
 paginate:         5
