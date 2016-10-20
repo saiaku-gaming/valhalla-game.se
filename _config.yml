@@ -10,10 +10,8 @@ relative_permalinks: true
 exclude:          ["example"]
 
 # Setup
-title:            A Journey in Valhalla
-tagline:          Instance focused MORPG
-description:      "A blog about an indie game in production."
-url:              http://valhalla-game.se
+title:            A journey into Valhalla
+url:              http://valhalla-game.com
 baseurl:          /
 
 paginate:         5
