@@ -1,7 +1,5 @@
 <div class="menu">
     <nav class="menu-nav">
-      <a class="menu-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter.
@@ -17,7 +15,5 @@
       {% endfor %}
       <hr>
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved (lol...).</p>
   </div>
 </div>

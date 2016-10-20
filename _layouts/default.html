@@ -4,12 +4,12 @@
   {% include head.html %}
 
   <body>
-
-    {% include sidebar.html %}
+    {% include logo.html %}
+    {% include menu.html %}
 
     <div class="content container">
       {{ content }}
     </div>
-
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved (like anyone cares).</p>
   </body>
 </html>
