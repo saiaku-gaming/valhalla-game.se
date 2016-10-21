@@ -1,20 +1,72 @@
 html {
-    background-image: url("images/lower-back.svg");
-    background-color: #cccccc;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: left bottom; 
-    height: 100%;
-    width: 100%;
-    margin: 0px;
+  background: url("images/lower-back.svg") bottom left no-repeat fixed, url("images/logo.png") top center no-repeat;
+  background-color: #cccccc;
+  height: 100%;
+  width: 100%;
+  margin: 0;
 }
 
 body {
-  margin: 40px auto;
+  margin: 10em auto;
   width: 800px;
 }
 
-#logo {
-  display: block;
-  margin: 20px auto;
+#logo-wrapper {
+  height: 5.5em;
+}
+
+ @font-face {
+  font-family: "jorvik";
+  src: url(jorvik.ttf);
+}
+
+@font-face {
+  font-family: "viking";
+  src: url(viking.ttf);
+}
+
+
+#menu-nav {
+  padding-left: 8em;
+  color: white;
+}
+
+a.menu-nav-item {
+  font-family: 'jorvik';
+  font-size: 2em;
+  color: #eee;
+  text-shadow: 2px 2px black;
+  text-decoration: none;
+  padding: 0.5em;
+}
+
+
+a.menu-nav-item.active {
+  text-decoration: underline;
+}
+
+.content {
+  background-color: rgba(60,71,103,0.7);
+  border: 1px solid #eee;
+  padding: 2em;
+  color: #eee;
+  margin-top:1em;
+}
+
+a { 
+  color: #ccc;
+}
+
+h1, h2, h3 {
+  margin-top:0.3em;
+  font-family: 'jorvik';
+  text-shadow: 2px 2px black;
+}
+
+#copyright {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  text-align: right;
+  font-size: 0.7em;
 }
