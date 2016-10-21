@@ -15,7 +15,7 @@ Hardcore gameplay is our core values, that means firendly fire, quick melee figh
 
 #Some relevant information about this project:
 
-* Built by three persons in their spare time.
+* Built by three people in their spare time.
 * Built on [Unreal Engine 4](http://unreal.com)
 * The game is really early alpha, don't expect it to work.
 * Any feedback is always welcome!
