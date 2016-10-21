@@ -3,7 +3,7 @@ layout: page
 title: About the game
 ---
 
-The game is set in a universe where all persons who die in battle ends up in Valhalla. There you will entertain the gods while testing your skills in different challenges. It is the gods who need entertainment and you are it. Show them that you are a cunning warrior!
+The game is set in a universe where all people who die in battle ends up in Valhalla. There you will entertain the gods while testing your skills in different challenges. It is the gods who need entertainment and you are it. Show them that you are a cunning warrior!
 
 #Inspiration
 
