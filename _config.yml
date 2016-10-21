@@ -11,5 +11,5 @@ exclude:          ["example"]
 
 # Setup
 title:            A journey into Valhalla
-url:              http://valhalla-game.com/tmp-site/_site/
-baseurl:          /tmp-site/_site/
+url:              http://valhalla-game.com/
+baseurl:          /
