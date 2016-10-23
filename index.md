@@ -13,7 +13,11 @@ The game takes inspiration from MMORPGS, the instances and dungeons from WoW, Gu
 
 Hardcore gameplay is our core values, that means firendly fire, quick melee fighting and seriously hard challenges. If you have played anything that is similar to our game, please tell us!
 
-#Some relevant information about this project:
+#Some random notes:
+
+```diff
++ We are looking for a graphically inclined person to do everything from modeling, artwork, animation etc!
+```
 
 * Built by three people in their spare time.
 * Built on [Unreal Engine 4](http://unreal.com)
