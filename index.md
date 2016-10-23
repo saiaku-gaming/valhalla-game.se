@@ -3,8 +3,6 @@ layout: page
 title: About the game
 ---
 
-**We are looking for a graphically inclined person to do everything from modeling, artwork, animation etc!**
-
 The game is set in a universe where all people who die in battle ends up in Valhalla. There you will entertain the gods while testing your skills in different challenges. It is the gods who need entertainment and you are it. Show them that you are a cunning warrior!
 
 #Inspiration
@@ -21,3 +19,5 @@ Hardcore gameplay is our core values, that means firendly fire, quick melee figh
 * Built on [Unreal Engine 4](http://unreal.com)
 * The game is really early alpha, don't expect it to work.
 * Any feedback is always welcome!
+
+**We are looking for a graphically inclined person to do everything from modeling, artwork, animation etc!**
