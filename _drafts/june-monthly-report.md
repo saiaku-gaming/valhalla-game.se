@@ -11,6 +11,7 @@ A project cannot survive as long as this has without a few problems and some maj
 
  It's probably a good thing as it shows that stuff is happening. But now we are doing more than just stuff, we are reporting about it as well! Starting with this month we decided to do a small report on all the things that we have managed to create (or destroy).
 
+<div class="clear" />
 ##Backend
 
  What have we done?
