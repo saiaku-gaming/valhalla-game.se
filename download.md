@@ -5,7 +5,7 @@ title: Download our Alpha
 
 ###Installer
 
-Dowload the ***[Installer](http://valhalla-game.com/public/setup.exe)***. This is the recommended way to get the game as it ensures you have the required dependencies needed to run the game.
+Download the ***[Installer](http://valhalla-game.com/public/setup.exe)***. This is the recommended way to get the game as it ensures you have the required dependencies needed to run the game.
 
 
 ###Or download the files directly with the patcher
