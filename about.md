@@ -11,7 +11,7 @@ The game takes inspiration from MMORPGS, the instances and dungeons from WoW, Gu
 
 ##What makes us different
 
-Hardcore gameplay is our core values, that means firendly fire, quick melee fighting and seriously hard challenges. If you have played anything that is similar to our game, please tell us!
+Hardcore gameplay are our core values, that means firendly fire, quick melee fighting and seriously hard challenges. If you have played anything that is similar to our game, please tell us!
 
 ##Some random notes:
 
