@@ -3,11 +3,9 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+future: true
 
-# Exclude
-exclude:          ["example"]
+excerpt_separator: <!--excerpt_separator-->
 
 # Setup
 title:            A journey into Valhalla

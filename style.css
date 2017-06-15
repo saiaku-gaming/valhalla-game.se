@@ -1,19 +1,41 @@
 html {
-  background: url("images/lower-back.svg") bottom left no-repeat fixed, url("images/logo.png") top center no-repeat;
-  background-color: #cccccc;
+  background: url("images/lower-back.svg") bottom left no-repeat fixed;
+  background-color: #222a42;
   height: 100%;
   width: 100%;
   margin: 0;
+  font-size: 17px;
 }
 
 body {
-  margin: 10em auto;
-  width: 800px;
+  margin: 0.5em auto;
+  max-width: 1000px;
   overflow-y:scroll;
 }
 
 #logo-wrapper {
-  height: 5.5em;
+  width: 100%;
+  margin-bottom: 0%;
+}
+
+#logo-wrapper img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+@media (max-width: 870px) {
+  #logo-wrapper img {
+    display: inline;
+    margin: 0;
+    width: 100%
+
+  }
+}
+
+.time-and-author {
+  float: right;
+  color: #8E732D;
 }
 
  @font-face {
@@ -26,19 +48,43 @@ body {
   src: url(viking.ttf);
 }
 
+.content img {
+  margin: 1em 1em;
+  border: 1px solid #867343;
+}
+
+img.post-image {
+  float: left;
+  margin: 0 2em 2em 1em;
+  border: 1px solid #867343;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: none;
+}
+
+a:hover img.post-image {
+  border-color: #8E732D;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: 0px 0px 4em #8E732D;
+}
+
 
 #menu-nav {
-  padding-left: 8em;
-  color: white;
+  left: 0;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  margin-top: -4em;
+  padding-top: 0;
 }
 
 a.menu-nav-item {
   font-family: 'jorvik';
   font-size: 2em;
-  color: #eee;
-  text-shadow: 2px 2px black;
+  color: #fff;
+  text-shadow: 0em 0em 0.3em #123, 0 0 3px #000000;
   text-decoration: none;
-  padding: 0.5em;
+  padding: 0.2em;
+  margin: 0.3em;
 }
 
 
@@ -47,21 +93,52 @@ a.menu-nav-item.active {
 }
 
 .content {
-  background-color: rgba(60,71,103,0.7);
-  border: 1px solid #eee;
-  padding: 2em;
-  color: #eee;
-  margin-top:1em;
+  background-color: rgba(66,57,34,0.55);
+  border: 1px solid #58658E;
+  padding: 2.5em;
+  color: white;
+  margin-top: 0em;
+  text-align: justify;
+  clear:both;
+}
+
+.page:after {
+    content: '';
+    display: block;
+    clear: both;
 }
 
 a { 
-  color: #ccc;
+  color: #fff;
+  text-decoration: none;
 }
+
+a.more { 
+  color: #fff;
+  text-decoration: underline;
+  font-size: 0.7em;
+  font-style: italic;
+}
+
 
 h1, h2, h3 {
   margin-top:0.3em;
-  font-family: 'jorvik';
-  text-shadow: 2px 2px black;
+  margin-left: 1em;
+  font-family: "Palatino Linotype","Times",serif;
+  text-shadow: 0.05em 0.05em black;
+  color: white;
+  clear: both;
+}
+
+h2, h3, h2 a {
+  margin-top:0.2em;
+  color: #8E732D;
+}
+
+
+a div.excerpt-body {
+  color: white;
+  max-width: 50em;
 }
 
 #copyright {
@@ -70,4 +147,30 @@ h1, h2, h3 {
   width: 100%;
   text-align: right;
   font-size: 0.7em;
+}
+
+
+
+hr {
+  clear: both;
+  margin-top:1em;
+  display: block;
+  width: 70%;
+  height: 1em;
+  border-style: solid;
+  border-color: #8E732D;
+  border-width: 1px 0 0px 0;
+  border-radius: 3em;
+}
+
+hr:before { /* Not really supposed to work, but does */
+  display: block;
+  width: 100%;
+  content: "";
+  height: 1em;
+  margin-top: -1em;
+  border-style: solid;
+  border-color: #58658E;
+  border-width: 0px 0 1px 0;
+  border-radius: 3em;
 }
