@@ -3,8 +3,8 @@ layout: page
 title: Latest news
 ---
 {% for post in site.posts %}
-	<a href="{{ post.url }}">
-		<img class="post-image" src="{{ post.image }}" />
+	<a href="{{base}}/{{ post.url }}">
+		<img class="post-image" src="{{base}}/{{ post.image }}" />
 		<div class="excerpt-body">
 			<h2>{{ post.title }}</h2>
 			{{ post.excerpt | remove: '<p>' | remove: '</p>' }}
