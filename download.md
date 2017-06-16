@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download our Alpha!
+title: Download our Alpha
 ---
 
 ###Installer
