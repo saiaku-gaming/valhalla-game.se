@@ -35,7 +35,7 @@ body {
 
 .time-and-author {
   float: right;
-  color: #8E732D;
+  color: #ffcc1a;
 }
 
  @font-face {
@@ -62,7 +62,7 @@ img.post-image {
 }
 
 a:hover img.post-image {
-  border-color: #8E732D;
+  border-color: #ffcc1a;
   transition: border-color 0.2s, box-shadow 0.2s;
   box-shadow: 0px 0px 4em #8E732D;
 }
@@ -145,7 +145,7 @@ hr {
   width: 70%;
   height: 1em;
   border-style: solid;
-  border-color: #8E732D;
+  border-color: #ffcc1a;
   border-width: 1px 0 0px 0;
   border-radius: 3em;
 }
