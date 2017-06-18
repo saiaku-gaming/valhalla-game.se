@@ -91,6 +91,10 @@ a.menu-nav-item.active {
   text-decoration: underline;
 }
 
+a.excerpt-body {
+  text-decoration: none;
+}
+
 .content {
   background-color: rgba(66,57,34,0.55);
   border: 1px solid #58658E;
@@ -109,7 +113,7 @@ a.menu-nav-item.active {
 
 a { 
   color: #fff;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a.more { 
