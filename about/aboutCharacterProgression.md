@@ -13,11 +13,11 @@ In order to spice things up in Valhall the gods lend out gifts, empowering the f
 
 The idea with this skill system is to allow even new players to be somewhat on par evern with the most experienced einharjer. They'll obviously lack a bit of a punch since a specialized warrior is way better than someone who's a jack of all trades, but they won't get outright obliterated at least.
 
-<p><img src="/images/skills1.png" style="float: right" />
+<p><img style="width: 100%;" src="/images/skills1.png" style="float: right" />
 <i>Curses add more red blocks, enabling players to pick gifts in order to grow stronger</i></p>
 <br>
-<p><img src="/images/skills2.png" style="float: right" />
+<p><img style="width: 100%" src="/images/skills2.png" style="float: right" />
 <i>When gaining a gift, players can spend more gift points to further specialize in that gift</i></p>
 <br>
-<p><img src="/images/skills3.png" style="float: right" />
+<p><img style="width: 100%;" src="/images/skills3.png" style="float: right" />
 <i>Curses work much the same way as gifts, but often add passive negative effects</i></p>
