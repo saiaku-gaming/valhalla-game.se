@@ -21,3 +21,6 @@ The idea with this skill system is to allow even new players to be somewhat on p
 <br>
 <p><img style="width: 100%;" src="/images/skills3.png" style="float: right" />
 <i>Curses work much the same way as gifts, but often add passive negative effects</i></p>
+<br>
+<p><img style="width:100%; float:right;" src="/images/item1.png">
+<i>Even the items, much like the gifts and curses, often come with drawbacks the stronger they are. A protective suit of armor will hinder your mobility whereas an armor with magic properties might have low armor value.</i></p>
