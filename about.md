@@ -24,20 +24,19 @@ Hardcore gameplay are our core values, that means firendly fire, quick melee fig
 
 <div style="width:30%; margin-left: 0.5%; float: left;">
 <h3>Progression</h3>
-<p>
-<a href="http://valhalla-game.se/about/aboutCharacterProgression.html"><img style="width:100%;" src="/images/about1.png" />
+
+<a href="http://valhalla-game.se/about/aboutCharacterProgression.html"><img style="width:100%; margin: 0;" src="/images/about1.png" />
 </a>
-</p>
+
 </div>
 <div style="width:30%; margin-left: 1%; float: left;">
 <h3>Combat</h3>
-<p>
-<a href="http://valhalla-game.se/about/aboutCombatMechanics.html"><img style="width:100%;" src="/images/about2.png" />
+
+<a href="http://valhalla-game.se/about/aboutCombatMechanics.html"><img style="width:100%; margin: 0;" src="/images/about2.png" />
 </a>
-</p>
 </div>
 <div style="width:30%; margin-left: 1%; float: left;">
 <h3>Challenges</h3>
-<p><a href="http://valhalla-game.se/about/aboutChallenges.html"><img style="width:100%;" src="/images/about3.png" />
-</a></p>
+<a href="http://valhalla-game.se/about/aboutChallenges.html"><img style="width:100%; margin: 0;" src="/images/about3.png" />
+</a>
 </div>
