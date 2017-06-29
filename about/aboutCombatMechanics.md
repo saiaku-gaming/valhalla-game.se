@@ -14,16 +14,16 @@ So what are we doing differently?
 	<li>The AI moves in such a way to intercept your movement, trying to surround you and if possible getting in strikes from behind. Move together as a team and position yourselves intelligently!</li>
 	<li>And of course, everything can affect everyone. Be careful not to stick your sword in the back of your shield mate, or accidently empower the enemy einhärjer charging towards you.</li>
 
-<p><img style="width: 100%; float:right;" src="/images/meleeAttack.png"/>
+<p><img style="width: 100%; float:right;" src="/images/meleeAttack.PNG"/>
 <i>The way hit detection works is by using a, now common, technique where the weapon consists of several points. Every frame there's a trace between the points last and current position, hitting everything in between.</i></p>
 <br>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/_O-y6JWqhik" frameborder="0" allowfullscreen></iframe>
+<p><iframe style="clear: both; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/_O-y6JWqhik" frameborder="0" allowfullscreen></iframe>
 <i>Simple combat, featuring the berserker trial in the demo map where the goal is to defeat the berserker AI</i></p>
 <br>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/wOVnj5BlRQE" frameborder="0" allowfullscreen></iframe>
+<p><iframe style="clear: both; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/wOVnj5BlRQE" frameborder="0" allowfullscreen></iframe>
 <i>More advanced combat, featuring the defense trial in the demo map where the goal is to survive three waves of incoming attackers.</i></p>
 <br>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/eTdPJBRDETY" frameborder="0" allowfullscreen></iframe>
+<p><iframe style="clear: both; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/eTdPJBRDETY" frameborder="0" allowfullscreen></iframe>
 <i>A quick showcase of how the AI moves around. Every AI controller has a point which "floats around" in the world which is where the character wants to move to. The point is illustrated by the white dot seen in the video.
 
 The rules for where the point flows to is pretty simple:
