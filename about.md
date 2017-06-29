@@ -21,3 +21,28 @@ Hardcore gameplay are our core values, that means firendly fire, quick melee fig
 * Any feedback is always welcome!
 
 **We are looking for a graphically inclined person to do everything from modeling, artwork, animation etc!**
+
+<div style="width:30%; margin-left: 0.5%; float: left;">
+##Progression
+<br>
+<a href="http://valhalla-game.se/about/aboutCharacterProgression.html"><img style="width:100%;" src="/images/about1.png" />
+</a>
+<br>
+<i>Read more about the progression philosophy</i>
+</div>
+<div style="width:30%; margin-left: 1%; float: left;">
+##Combat
+<br>
+<a href="http://valhalla-game.se/about/abouyCombatMechanics.html"><img style="width:100%;" src="/images/about2.png" />
+</a>
+<br>
+<i>Read more about the gameplay philosophy</i>
+</div>
+<div style="width:30%; margin-left: 1%; float: left;">
+##Challenges
+<br>
+<a href="http://valhalla-game.se/about/aboutChallenges.html.html"><img style="width:100%;" src="/images/about3.png" />
+</a>
+<br>
+<i>Read more about difficulty philosophy</i>
+</div>
