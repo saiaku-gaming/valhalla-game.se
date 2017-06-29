@@ -18,12 +18,15 @@ So what are we doing differently?
 <i>The way hit detection works is by using a, now common, technique where the weapon consists of several points. Every frame there's a trace between the points last and current position, hitting everything in between.</i></p>
 <br>
 <p><iframe style="clear: both; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/_O-y6JWqhik" frameborder="0" allowfullscreen></iframe>
+<br>
 <i>Simple combat, featuring the berserker trial in the demo map where the goal is to defeat the berserker AI</i></p>
 <br>
 <p><iframe style="clear: both; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/wOVnj5BlRQE" frameborder="0" allowfullscreen></iframe>
+<br>
 <i>More advanced combat, featuring the defense trial in the demo map where the goal is to survive three waves of incoming attackers.</i></p>
 <br>
 <p><iframe style="clear: both; margin: auto;" width="640" height="360" src="https://www.youtube.com/embed/eTdPJBRDETY" frameborder="0" allowfullscreen></iframe>
+<br>
 <i>A quick showcase of how the AI moves around. Every AI controller has a point which "floats around" in the world which is where the character wants to move to. The point is illustrated by the white dot seen in the video.
 
 The rules for where the point flows to is pretty simple:
