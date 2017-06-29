@@ -10,8 +10,8 @@ The goal of these challenges will be to push not only your individual skills but
 
 In the alpha there are currently two challenges, still not connected to any particular norse lore but mainly in place in order to showcase game mechanics.
 
-<p><img style="width: 100%; float:right;" src="/images/instance2.PNG"/>
+<p><img style="width: 100%; float:right;" src="/images/instance2.png"/>
 <i>The introductory challenge: Trials. 8 different smaller trials suited for 1-3 players and serves as a practice ground.</i></p>
 <br>
-<p><img style="width: 100%; float:right;" src="/images/instance1.PNG"/>
+<p><img style="width: 100%; float:right;" src="/images/instance1.png"/>
 <i>The first, proper challenge: Winter Wonderland. A single foe, the frost shaman Grynma, with numerous hazards to take into consideration when fighting.</i></p>
