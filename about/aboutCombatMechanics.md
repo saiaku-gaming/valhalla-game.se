@@ -33,7 +33,7 @@ The rules for where the point flows to is pretty simple:
 
 1. Run towards the target
 2. If something's in your way, flow to the left of it if you're on the left side, otherwise flow to the right of it.
-3. If the target is too close (ranged defined by weapon and some other parameters) move back a bit
+3. If the target is too close (range defined by weapon and some other parameters) move back a bit
 4. If the target is moving, try to intercept it
 
 Done entirely using Unreal Engine 4 blueprints</i></p>
