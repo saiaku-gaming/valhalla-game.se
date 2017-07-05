@@ -14,11 +14,13 @@ A project cannot survive as long as this has without a few problems and some maj
 <div class="clear" />
 ## Chat
 There's finally a chat system! It has the pretty standard functions of a general chat (visible to everyone everywhere), an instance chat (visible only to players in the same instance), a party chat (only visible to your party members) and a whisper function to certain players.
+<br>
 <img style="width:100%; margin: 0;" src="/images/posts/chat1.png" />
 <i>First version of the chat system</i>
 <br>
 ## New map in progress: Fredstorp
 The first single player challenge is being worked on: Fredstorp. This small bay is, despite it's name, home of several pillagers in Midgård. With the new æsir powers bestowed upon them, the player gets a first easy challenge being sent back to the land of men, battling regular human bandits. Searching the cave systems and infiltrating the outpost is a great way of earning your first items to put in your wardrobe.
+<br>
 <img style="width:100%; margin: 0;" src="/images/posts/fredstorp1.png" />
 <i>Fredstorp WIP. Pictured is the outside area which hasn't had any buildings added to it yet</i>
 <br>
