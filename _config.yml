@@ -8,6 +8,6 @@ future: true
 excerpt_separator: <!--excerpt_separator-->
 
 # Setup
-title:            A journey into Valhalla
+title:            A journey through Valhalla
 url:              http://valhalla-game.com/
 baseurl:          /
