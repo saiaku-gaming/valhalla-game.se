@@ -2,7 +2,7 @@
 layout: post
 title:  "Valhalla Progress Report: June 2017"
 image: /images/posts/june-montly-report-image.png
-author: PhroZen
+author: TheYawningWhale
 ---
 
 A project cannot survive as long as this has without a few problems and some major changes along the way.
