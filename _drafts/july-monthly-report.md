@@ -9,7 +9,7 @@ A good many things have happened since our last update. This month contains some
 
 <!--excerpt_separator-->
 
-<div class="clear" />
+<div class="clear" ></div>
 
 ## New map: Fredstorp
 
@@ -45,7 +45,8 @@ source
 Even with these things missing it's quite fun to sneak about and 
 shoot people down =D
 
-<div class="youtube-player" data-id="YJ0x5T8wjec"></div>
+<div class="youtube" data-id="YJ0x5T8wjec"></div>
+
 *Testing the new bow in the Trial map*
 
 ## Optimizations
