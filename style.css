@@ -59,6 +59,8 @@ img.post-image {
   border: 1px solid #867343;
   transition: border-color 0.2s, box-shadow 0.2s;
   box-shadow: none;
+  width: 260px;
+  height: 130px;
 }
 
 a:hover img.post-image {
