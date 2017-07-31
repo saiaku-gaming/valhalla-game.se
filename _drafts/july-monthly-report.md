@@ -10,7 +10,7 @@ This month contains some dealings with bureaucrazy [sic] some some rewrites of c
 <!--excerpt_separator-->
 ## Certificates and funny Americans
 
-I can't help to wonder if all Americans goes around with their gas-bill in thier back pocket instead of an ID, Comodo seems to think that a gas-bill is the best way to prove who you are at least...
+I can't help to wonder if all Americans goes around with their gas-bill in thier back pocket instead of an ID as Comodo seems to think that a gas-bill is the best way to prove who you are...
 
 
 
