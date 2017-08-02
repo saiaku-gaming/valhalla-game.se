@@ -4,6 +4,8 @@ title: Character Progression
 author: TheYawningWhale
 ---
 
+<img style="width:10em; float:left" src="/images/about1.png" />
+
 One thing we feel modern games are doing wrong today is having a progression where the character gets strictly better the further into the game you get. The problem with this is that a new player who is good at the game is being arbitrarily locked out of content because he or she is lacking "good enough stats" to properly tackle the later challenges.
 
 In Valhall, in order to get better in one regard you also have to become worse in another. You don't become strictly better, you become more specialized.

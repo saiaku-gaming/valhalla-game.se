@@ -13,9 +13,12 @@
   <body>
     {% include logo.html %}
     {% include menu.html %}
-
-    <div class="content container">
-      {{ content }}
-    </div>
+    <div class="outer-content">
+    <a name="head-anchor"> </a>
+		{% include nav-breadcrumbs.html %}
+		<div class="main-content">
+		  {{ content }}
+		</div>
+	</outer-content>
   </body>
 </html>
