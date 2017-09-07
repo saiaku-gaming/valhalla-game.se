@@ -21,7 +21,7 @@ The big things which are still missing before the game becomes playable are ever
 
 Amidst the big conversion project we did one other improvement as well, which was upgrading the UI to nicer looking menues and widgets! There are still a few things here and there which will need their looks updated.
 
-<img style="width: 50%; clear: both; margin:auto;" src="/images/posts/august1.png" />
+<div style="text-align:center;"><img style="width: 50%; clear: both; margin:auto;" src="/images/posts/august1.png" /></div>
 
 *A fully working tooltip again, but this time written entirely in C++ ! The tooltips are one of the widgets which still need a graphical update though *
 
