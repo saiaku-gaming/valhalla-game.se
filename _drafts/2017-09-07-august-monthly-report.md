@@ -21,15 +21,14 @@ The big things which are still missing before the game becomes playable are ever
 
 Amidst the big conversion project we did one other improvement as well, which was upgrading the UI to nicer looking menues and widgets! There are still a few things here and there which will need their looks updated.
 
-<img class="full" src="/images/posts/august1.png" />
+<img style="width: 50%; clear: both; margin:auto;" src="/images/posts/august1.png" />
 
-*The tooltips are one of the things which are still looking like they did before, but all of the information is there now*
+*A fully working tooltip again, but this time written entirely in C++ ! The tooltips are one of the widgets which still need a graphical update though *
 
 <img class="full" src="/images/posts/august2.png" />
 
-*One of the early bugs which didn't unequip the current weapon when equipping a new weapon*
+*One of the early bugs which didn't unequip the current weapon when equipping a new weapon created some very menacing vikings*
 
 <img class="full" src="/images/posts/august3.png" />
 
-*Another early bug which made it possible for the player to remove items permanently from their wardrobe*
-
+*Another early bug which made it possible for the player to remove items permanently from their wardrobe which would've made for a very unforgiving game*
