@@ -5,6 +5,10 @@ title: Download our Alpha
 
 ###Installer
 
+Sorry, no installer available while we are doing the rewrite to blueprint. Will be back soon!
+
+<!-- ###Installer
+
 Download the ***[Installer](http://valhalla-game.com/public/valhalla_installer.exe)***. This is the recommended way to get the game as it ensures you have the required dependencies needed to run the game.
 
 
@@ -12,3 +16,4 @@ Download the ***[Installer](http://valhalla-game.com/public/valhalla_installer.e
 
 Another way to get the game is to download the ***[Patcher](http://valhalla-game.com/public/patcher/startup.exe)***, put it in an empty folder and start it. It will download all the needed files to running the game. This way you only get the files you need and can just delete the folder when you want to uninstall it.
 
+ -->
