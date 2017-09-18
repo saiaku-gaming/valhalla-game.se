@@ -5,7 +5,7 @@ title: Download our Alpha
 
 ###Installer
 
-Sorry, no installer available while we are doing the rewrite to blueprint. Will be back soon!
+Sorry, no installer available while we are doing a major rewrite. Will be back soon!
 
 <!-- ###Installer
 
