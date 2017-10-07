@@ -1,4 +1,7 @@
 <head>
+
+  <link rel="shortcut icon" href="{{base}}/favicon.ico">
+
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
@@ -10,14 +13,30 @@
       {{ site.title }} &middot; {{ page.title }}
   </title>
 
-  <link rel="stylesheet" href="{{base}}/style.css">
-  <link rel="shortcut icon" href="{{base}}/favicon.ico">
+
+  <link rel="stylesheet" href="{{base}}/style/style.css">
+
+  <link rel="stylesheet" href="{{base}}/style/magnific-popup.css">
+
 
   <script src="{{base}}/js/zepto.min.js"></script>
 
   <script src="{{base}}/js/youtube-fix.js"></script>
 
+  <script src="{{base}}/js/jquery.magnific-popup.min.js"></script>
+
+
   {% if jekyll.environment != "development" %}
     <script src="{{base}}/js/google-analytics.js"></script>
   {% endif %}
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      var imgLink = $('.image-link');
+      if(imgLink && imgLink.length > 0){
+        imgLink.magnificPopup({type:'image'});
+      }
+    });
+  </script>
+
 </head>

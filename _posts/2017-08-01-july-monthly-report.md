@@ -37,7 +37,7 @@ summon arrows from his back.
 Major things which are not yet implemented:
 
 * Allow the AI to use bows
-* Make the AI react a lot better to being shot at from an unkown 
+* Make the AI react a lot better to being shot at from an unknown 
 source
 * Create an ammunition system for arrows
 * Allow the player to recuperate arrows if found in the world
@@ -60,4 +60,4 @@ The biggest project at the moment is the refactoring though. We've begun working
 
 ## Certificates and funny Americans
 
-Some work this month has been with bureaucrats, both in Sweden and in the US. We need our software to be signed properly for distrubution. For this to happen we need a Code Signing Certificate and to do that we have do some really strange stuff. There will be a complete post with all info regarding this madness when we have the certificate in our hands. Stay tuned!
+Some work this month has been with bureaucrats, both in Sweden and in the US. We need our software to be signed properly for distribution. For this to happen we need a Code Signing Certificate and to do that we have do some really strange stuff. There will be a complete post with all info regarding this madness when we have the certificate in our hands. Stay tuned!

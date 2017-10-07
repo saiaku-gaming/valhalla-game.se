@@ -1,5 +1,5 @@
 html {
-  background: url("images/lower-back.svg") bottom left no-repeat fixed;
+  background: url("../images/lower-back.svg") bottom left no-repeat fixed;
   background-color: #222a42;
   background-size: contain;
   height: 100%;
@@ -45,12 +45,12 @@ body {
 
  @font-face {
   font-family: "jorvik";
-  src: url(misc/jorvik.ttf);
+  src: url("../misc/jorvik.ttf");
 }
 
 @font-face {
   font-family: "viking";
-  src: url(misc/viking.ttf);
+  src: url("../misc/viking.ttf");
 }
 
 
@@ -124,7 +124,7 @@ a.excerpt-link {
 
 
 .main-content img {
-  margin: 0.4em 1em;
+  margin: 0.4em 1em 1.5em 1em;
   border: 1px solid #867343;
 }
 
