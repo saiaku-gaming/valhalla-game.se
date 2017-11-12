@@ -14,7 +14,7 @@ Progressing even further in the C++ conversion, the AI can now move and attack a
 
 ## AI
 
-The AI is back with some basic functionality. It can patrol, idle, move around in combat and attack. Besides this a basic sight and aggro system is implemented and a first version of the old combat movement technique we previously used for manouvering the AI in combat. There's still more work to be done, especially when the skill system has been implemented, but it's a solid start!
+The AI is back with some basic functionality. It can patrol, idle, move around in combat and attack. Besides this, a basic sight and aggro system is implemented, as well as a first version of the old combat movement technique we previously used for manouvering the AI in combat. There's still more work to be done, especially when the skill system has been implemented, but it's a solid start!
 
 
 <img class="full" src="/images/posts/october1.png" />
@@ -35,4 +35,4 @@ The basic skeleton for the different dungeon states is done. When entering a new
 
 ## User settings
 
-A minor update but nice nonetheless (especially for us when testing at the moment). It's possible to adjut and save volume and mouse sensitivity settings! No more deafening sword hits or incredibly sensitive mouse.
+A minor update but nice nonetheless (especially for us when testing at the moment). It's possible to adjust and save volume and mouse sensitivity settings! No more deafening sword hits!
