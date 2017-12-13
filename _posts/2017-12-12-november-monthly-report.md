@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Valhalla Progress Report: December 2017"
-image: /images/posts/december-monthly-report-image.png
+title:  "Valhalla Progress Report: November 2017"
+image: /images/posts/november-monthly-report-image.png
 author: TheYawningWhale
 ---
 
