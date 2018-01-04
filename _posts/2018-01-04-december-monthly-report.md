@@ -13,7 +13,7 @@ A massive progress leap occured this month! Ironing out the new backend, tying t
 
 ## Steam
 
-After a bit of a hassle, creating a corporation and doing a bit of paperwork, the game finally got up on Steam. At the moment it's hidden from the public since it's a development build only, but it's fully possible to invite people through beta keys and get testing done that way. We're still using *our* username in the backend so you will still have to create a Valhalla account and use our login screen, but the idea is to tie the Steam ID together with the Valhalla username.
+After a bit of a hassle, creating a company and doing a bit of paperwork, the game finally got up on Steam. At the moment it's hidden from the public since it's a development build only, but it's fully possible to invite people through beta keys and get testing done that way. We're still using *our* username in the backend so you will still have to create a Valhalla account and use our login screen, but the idea is to tie the Steam ID together with the Valhalla username.
 
 <img class="full" src="/images/posts/december1.png" />
 *The first thing one sees when starting the game from Steam*
