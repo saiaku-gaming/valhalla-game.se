@@ -24,12 +24,20 @@ A lot of the december work has focused around making the game stable by getting 
 
 <img class="full" src="/images/posts/december2.png" />
 *The character selection screen*
+
+
 <img class="full" src="/images/posts/december3.png" />
 *Friends and party menu, currently with a party invite sent to Arbiggan*
+
+
 <img class="full" src="/images/posts/december4.png" />
 *Wardrobe and character menu, currently displaying the tooltip for the Leather Armor*
+
+
 <img class="full" src="/images/posts/december5.png" />
 *Overhead information displays when looking at other characters, showing their name and current health*
+
+
 <img class="full" src="/images/posts/december6.png" />
 *Portal menu for queuing up and travelling to dungeons. The big red text is a placeholder for where the dungeon lore, information etc will be displayed*
 
