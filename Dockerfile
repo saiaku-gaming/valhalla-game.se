@@ -1,32 +1,18 @@
-FROM ubuntu:latest
+FROM nginx:mainline
 MAINTAINER phrozen <phrozen@teamsamst.com>
 
-ENV DEBIAN_FRONTEND noninteractive
-
-RUN apt-get update && apt-get install -y wget net-tools ruby-dev ruby-redcarpet nginx
+RUN apt-get update && apt-get install -y wget net-tools ruby-dev ruby-redcarpet build-essential
 RUN gem install jekyll
 
-RUN \
-  add-apt-repository -y ppa:nginx/stable && \
-  apt-get update && \
-  apt-get install -y nginx && \
-  rm -rf /var/lib/apt/lists/* && \
-  echo "\ndaemon off;" >> /etc/nginx/nginx.conf && \
-  chown -R www-data:www-data /var/lib/nginx
+RUN rm /etc/nginx/conf.d/default.conf
+COPY sites/valhalla-game.com.conf /etc/nginx/conf.d/valhalla-game.com.conf
+COPY src /src
 
-rm /etc/nginx/sites-available/default
+RUN JEKYLL_ENV=production jekyll build -s /src -d /var/www/valhalla-game.com
+RUN JEKYLL_ENV=development jekyll build --draft -s /src -d /var/www/draft.valhalla-game.com
 
-COPY sites/valhalla-game.com.conf /etc/nginx/sites-available/valhalla-game.com.conf
-COPY sites/draft.valhalla-game.com.conf /etc/nginx/sites-available/draft.valhalla-game.com.conf
-COPY src /
+COPY config /var/www/valhalla-game.com/config
 
-JEKYLL_ENV=production jekyll build -s /src -d /var/www/valhalla-game.com
-JEKYLL_ENV=development jekyll build --draft -s /src -d /var/www/draft.valhalla-game.com
+RUN chown -R www-data:www-data /var/www
 
-COPY config /var/www/valhalla-game.com/
-
-chown -R www-data:www-data /var/www
-
-EXPOSE 80
-
-CMD ["nginx"]
+CMD ["nginx", "-g", "daemon off;"]
