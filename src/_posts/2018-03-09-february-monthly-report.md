@@ -17,7 +17,7 @@ After a bit of debating we settled on the word "traits" instead of skills, abili
 
 So far we have 9 different activatable traits, each focusing on different kinds on trait mechanics (instant cast, projectile spawning, channeling, beam effects etc). The plan was to both get the players an interesting mix of traits to build their party around, and also for us to practice various trait mechanics so we have a solid foundation for future traits to build upon. There's still a few more types left which we haven't implemented yet but that's for the future (ground targeted traits, traits which require multiple people, counter-attacks, and so on).
 
-<img class="full" src="/images/post/2018february1.png" />
+<img class="full" src="/images/posts/2018february1.png" />
 *The temporary trait selection menu, as well as the trait bar and some trait information*
 
 <div class="youtube" data-id="DBLKYQYuteE"></div>
