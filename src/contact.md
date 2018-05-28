@@ -3,6 +3,6 @@ layout: page
 title: Contact us
 ---
 
-We are [saiaku games](http://xn--smst-loa.se/) and this is our first game!
+We are usually on our teamspeak server at [teamspeak.sämst.se](ts3server://teamspeak.xn--smst-loa.se/) (pw is sämst).
 
-For contact, you have to follow the link above and figure out yourself how to get in contact with us (hint: we are on teamspeak).
+Else you can send us an email: [info@teamsamst.com](mailto://info@teamsamst.com).
