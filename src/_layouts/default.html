@@ -28,15 +28,18 @@
   
     <script>
       $.get('https://ymer.valhalla-game.com/v1/public-instance/get-fleets', (res) => {
+        console.log(res);
         if(res) {
+          console.log('2');
           const latestFleet = res.reduce((highestVersionFleet, fleet) => {
+            console.log(fleet);
             if(!highestVersionFleet) {
               return fleet;
             }
 
             return highestVersionFleet.version > fleet.version ? highestVersionFleet : fleet;
           }, null)[0];
-
+          console.log(latestFleet);
           $('#status-version').text(latestFleet.version);
           $('#status-state').text(latestFleet.status);
           $('#status-instances').text(latestFleet.instanceCount);
