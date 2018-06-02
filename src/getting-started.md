@@ -32,12 +32,21 @@ The game is NOT complete in any sense. This is a really early alpha, and for thi
 ### Why do I need to create an account?
 We don't have a finished integration with steam yet. It will go away, but in the meantime. Just do it!
 
+### Nothing happens when I try to move on from the character selection screen?
+Our servers are automatically shutting down if no one is playing, and starting them can take up to 15 minutes. So just be patient and try to login again.
+
+<div style="float: right; text-align: center; margin: 2em">
+	<a href="/images/getting-started/valhalla1.png" class="image-link"><img style="width:20em; margin: 0;" src="/images/getting-started/valhalla1.png" /></a>
+	<br />
+	<i>The escape menu</i>
+</div>
 ### Wheres the menus?
-While in game, press escape to see all the different menues available and their shortcut.
+While in game, press escape to see all the different menus savailable and their shortcut.
+
 
 ### What's there to do?
-Grab som friends and try to finish our only dungeon called Fredstorp, or venture in alone if you really like the challange! 
+Grab som friends and try to finish our only dungeon called Fredstorp, or venture in alone if you really like the challenge! 
 
 ### X is broken, and Y is strange!
-Join the teamspeak and talk to us about it! While this is an early alpha so a lot of things are expected to be broken, don't hesitate to poke us about it!
+Join the teamspeak and talk to us about it! While this is an early alpha so a lot of things are expected to be broken, don't hesitate to poke us about it! Or if you want do feedback oldschool-style then there is always our email: [info@teamsamst.com](mailto://info@teamsamst.com)!
 
