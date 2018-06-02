@@ -11,12 +11,12 @@
   {% include head.html %}
 
   <body>
-    <div id="status-div" style="position: absolute; right: 10px; top: 10px; background-color: rgba(66,57,34,0.55); border: 1px solid #58658E;">
-      <span id="status-version" style="color: white; padding-left: 5px;"></span>
+    <div id="status-div" style="position: absolute; right: 10px; top: 10px; background-color: rgba(66,57,34,0.55); border: 1px solid #58658E; padding: 0.75em;">
+      <span id="status-version" style="color: white;"></span>
       <br />
-      <span id="status-state" style="color: white; padding-left: 5px;"></span>
+      <span style="color: white;">Status: </span><span id="status-state"></span>
       <br />
-      <span id="status-instances" style="color: white; padding-left: 5px;"></span>
+      <span id="status-instances" style="color: white;"></span>
     </div>
     {% include logo.html %}
     {% include menu.html %}
@@ -30,20 +30,20 @@
   
     <script>
       $.get('https://ymer.valhalla-game.com/v1/public-instance/get-fleets', (res) => {
-        console.log(res);
         if(res) {
-          console.log('2');
           const latestFleet = res.reduce((highestVersionFleet, fleet) => {
-            console.log(fleet);
             if(!highestVersionFleet) {
               return fleet;
             }
 
             return highestVersionFleet.version > fleet.version ? highestVersionFleet : fleet;
           }, null);
-          console.log(latestFleet);
+          
+          const status = latestFleet.instanceCount === 0 && latestFleet.status === 'ACTIVE' ? 'SLEEPING' : latestFleet.status;
+
           $('#status-version').text(`Version: ${latestFleet.version}`);
-          $('#status-state').text(`Status: ${latestFleet.instanceCount === 0 ? 'SLEEPING' : latestFleet.status}`);
+          $('#status-state').text(status);
+          $('#status-state').addClass((status === 'ACTIVE' ? 'statusActive' : (status === 'SLEEPING' ? 'statusSleeping' : 'statusInactive')));
           $('#status-instances').text(`Instances: ${latestFleet.instanceCount}`);
         }
       });    

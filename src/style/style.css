@@ -8,6 +8,18 @@ html {
   font-size: 17px;
 }
 
+statusInactive {
+  color: red;
+}
+
+statusSleeping {
+  color: yellow;
+}
+
+statusActive {
+  color: green;
+}
+
 body {
   margin: 0.5em auto;
   max-width: 1000px;
@@ -33,7 +45,6 @@ body {
   #logo-wrapper img {
     display: inline;
     margin: 0;
-    width: 100%
   }
 }
 
@@ -305,7 +316,7 @@ nav.breadcrumbs .breadcrumb a.breadcrumb-item:after {
 }
 
 #page-sub-nav .item {
-  flex-grow: 1: 
+  flex-grow: 1;
 }
 #page-sub-nav .sub-item img {
   margin: 0;
