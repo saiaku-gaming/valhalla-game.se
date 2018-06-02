@@ -8,15 +8,15 @@ html {
   font-size: 17px;
 }
 
-statusInactive {
+.status-inactive {
   color: red;
 }
 
-statusSleeping {
+.status-sleeping {
   color: yellow;
 }
 
-statusActive {
+.status-active {
   color: green;
 }
 

@@ -43,7 +43,7 @@
 
           $('#status-version').text(`Version: ${latestFleet.version}`);
           $('#status-state').text(status);
-          $('#status-state').addClass((status === 'ACTIVE' ? 'statusActive' : (status === 'SLEEPING' ? 'statusSleeping' : 'statusInactive')));
+          $('#status-state').addClass((status === 'ACTIVE' ? 'status-active' : (status === 'SLEEPING' ? 'status-sleeping' : 'status-inactive')));
           $('#status-instances').text(`Instances: ${latestFleet.instanceCount}`);
         }
       });    
