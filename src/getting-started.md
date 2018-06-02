@@ -3,7 +3,9 @@ layout: page
 title: Getting started
 ---
 
-The game is only accesssable though [steam](https://store.steampowered.com/) and is invite only. If you are interested in gettnig a key, send us an email at [info@teamsamst.com](mailto://info@teamsamst.com)!
+The game is only accesssable though [steam](https://store.steampowered.com/) and is invite only.
+
+If you are interested in getting a key, send us an email at [info@teamsamst.com](mailto://info@teamsamst.com)!
 
 ##Getting started
 
