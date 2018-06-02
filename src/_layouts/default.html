@@ -12,11 +12,11 @@
 
   <body>
     <div id="status-div" style="position: absolute; right: 10px; top: 10px; background-color: rgba(66,57,34,0.55); border: 1px solid #58658E;">
-      <span id="status-version" style="color: white;"></span>
+      <span id="status-version" style="color: white; padding-left: 5px;"></span>
       <br />
-      <span id="status-state" style="color: white;"></span>
+      <span id="status-state" style="color: white; padding-left: 5px;"></span>
       <br />
-      <span id="status-instances" style="color: white;"></span>
+      <span id="status-instances" style="color: white; padding-left: 5px;"></span>
     </div>
     {% include logo.html %}
     {% include menu.html %}
@@ -43,7 +43,7 @@
           }, null);
           console.log(latestFleet);
           $('#status-version').text(`Version: ${latestFleet.version}`);
-          $('#status-state').text(`Status: ${latestFleet.status}`);
+          $('#status-state').text(`Status: ${latestFleet.instanceCount === 0 ? 'SLEEPING' : latestFleet.status}`);
           $('#status-instances').text(`Instances: ${latestFleet.instanceCount}`);
         }
       });    
