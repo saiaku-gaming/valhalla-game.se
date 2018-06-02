@@ -11,6 +11,11 @@
   {% include head.html %}
 
   <body>
+    <div id="status-div" style="position: absolute; right: 0">
+      <span id="status-version"></span>
+      <span id="status-state"></span>
+      <span id="status-instances"></span>
+    </div>
     {% include logo.html %}
     {% include menu.html %}
     <div class="outer-content">
@@ -19,6 +24,24 @@
 		<div class="main-content">
 		  {{ content }}
 		</div>
-	</outer-content>
+  </outer-content>
+  
+    <script>
+      $.get('https://ymer.valhalla-game.com/v1/public-instance/get-fleets', (res) => {
+        if(res) {
+          const latestFleet = res.reduce((highestVersionFleet, fleet) => {
+            if(!highestVersionFleet) {
+              return fleet;
+            }
+
+            return highestVersionFleet.version > fleet.version ? highestVersionFleet : fleet;
+          }, null)[0];
+
+          $('#status-version').text(latestFleet.version);
+          $('#status-state').text(latestFleet.status);
+          $('#status-instances').text(latestFleet.instanceCount);
+        }
+      });    
+    </script>
   </body>
 </html>
