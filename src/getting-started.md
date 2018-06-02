@@ -39,5 +39,5 @@ While in game, press escape to see all the different menues available and their 
 Grab som friends and try to finish our only dungeon called Fredstorp, or venture in alone if you really like the challange! 
 
 ### X is broken, and Y is strange!
-Join the teamspeak and talk to us about it! While this is an early alpha so a lot of things are expected to be broken, dont hesitate to poke us about it!
+Join the teamspeak and talk to us about it! While this is an early alpha so a lot of things are expected to be broken, don't hesitate to poke us about it!
 
