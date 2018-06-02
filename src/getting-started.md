@@ -19,7 +19,7 @@ Before you can play you need to switch to the developer beta channel to get the 
 
 <a href="/images/getting-started/steam2.png" class="image-link"><img class="full" src="/images/getting-started/steam2.png" /></a>
 
-Under the BETAS tab select development and press ok.
+Under the BETAS tab select development.
 
 <a href="/images/getting-started/steam3.png" class="image-link"><img class="full" src="/images/getting-started/steam3.png" /></a>
 
