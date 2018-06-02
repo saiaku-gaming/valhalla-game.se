@@ -11,10 +11,10 @@
   {% include head.html %}
 
   <body>
-    <div id="status-div" style="position: absolute; right: 0">
-      <span id="status-version"></span>
-      <span id="status-state"></span>
-      <span id="status-instances"></span>
+    <div id="status-div" style="position: absolute; right: 10px; top: 10px; background-color: rgba(66,57,34,0.55); border: 1px solid #58658E;">
+      <span id="status-version" style="color: white;"></span>
+      <span id="status-state" style="color: white;"></span>
+      <span id="status-instances" style="color: white;"></span>
     </div>
     {% include logo.html %}
     {% include menu.html %}
@@ -40,9 +40,9 @@
             return highestVersionFleet.version > fleet.version ? highestVersionFleet : fleet;
           }, null);
           console.log(latestFleet);
-          $('#status-version').text(latestFleet.version);
-          $('#status-state').text(latestFleet.status);
-          $('#status-instances').text(latestFleet.instanceCount);
+          $('#status-version').text(`Version: ${latestFleet.version}`);
+          $('#status-state').text(`Status: ${latestFleet.status}`);
+          $('#status-instances').text(`Instances ${latestFleet.instanceCount}`);
         }
       });    
     </script>
