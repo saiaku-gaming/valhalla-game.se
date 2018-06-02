@@ -30,6 +30,12 @@ Hardcore gameplay are our core values, that means firendly fire, quick melee fig
 * The game is really early alpha, don't expect it to work.
 * Any feedback is always welcome!
 
+<script>
+  $.get('http://google.se', (res) => {
+    console.log('GOOGLE CALL!', res);
+  });
+</script>
+
 <nav id="page-sub-nav">
   {% for subpage in page.subpage %}
   	<div class="sub-item" >
