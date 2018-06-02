@@ -31,7 +31,7 @@ Hardcore gameplay are our core values, that means firendly fire, quick melee fig
 * Any feedback is always welcome!
 
 <script>
-  $.get('http://google.se', (res) => {
+  $.get('https://google.se', (res) => {
     console.log('GOOGLE CALL!', res);
   });
 </script>
