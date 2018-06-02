@@ -39,6 +39,14 @@
             return highestVersionFleet.version > fleet.version ? highestVersionFleet : fleet;
           }, null);
           
+          if(!latestFleet) {
+            $('#status-version').text('Version: n/a');
+            $('#status-state').text('MAINTENANCE');
+            $('#status-state').addClass('status-inactive');
+            $('#status-instances').text('Instances: 0');
+            return;
+          }
+
           const status = latestFleet.instanceCount === 0 && latestFleet.status === 'ACTIVE' ? 'SLEEPING' : latestFleet.status;
 
           $('#status-version').text(`Version: ${latestFleet.version}`);
