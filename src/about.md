@@ -31,8 +31,8 @@ Hardcore gameplay are our core values, that means firendly fire, quick melee fig
 * Any feedback is always welcome!
 
 <script>
-  $.get('https://google.se', (res) => {
-    console.log('GOOGLE CALL!', res);
+  $.get('https://ymer.valhalla-game.com/v1/public-instance/get-fleets', (res) => {
+    console.log('ymer fleet call!', res);
   });
 </script>
 
