@@ -30,18 +30,20 @@ Under the BETAS tab select development.
 The game is NOT complete in any sense. This is a really early alpha, and for this reason we don't have a tutorial and some stuff might be a bit confusing. But don't worry! We are going to inform you on all the confusing things here below:
 
 ### Why do I need to create an account?
-We don't have a finished integration with steam yet. It will go away, but in the meantime. Just do it!
+We don't have a finished integration with steam yet. It will go away, but in the meantime. Just do it! Don't worry, we are fully GDPR compliant!
 
 ### Nothing happens when I try to move on from the character selection screen?
 Our servers are automatically shutting down if no one is playing, and starting them can take up to 15 minutes. So just be patient and try to login again.
+
+The status of the servers are displayed in the top right corner of this page. If the status is Active the servers are running, Sleeping means that the servers will wake up if you try to join it.
 
 <div style="float: right; text-align: center; margin: 2em">
 	<a href="/images/getting-started/valhalla1.png" class="image-link"><img style="width:20em; margin: 0;" src="/images/getting-started/valhalla1.png" /></a>
 	<br />
 	<i>The escape menu</i>
 </div>
-### Wheres the menus?
-While in game, press escape to see all the different menus savailable and their shortcut.
+### Where are the menus?
+While in game, press escape to see all the different menus available and their shortcut.
 
 
 ### What's there to do?
