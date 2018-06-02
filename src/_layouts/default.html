@@ -38,7 +38,7 @@
             }
 
             return highestVersionFleet.version > fleet.version ? highestVersionFleet : fleet;
-          }, null)[0];
+          }, null);
           console.log(latestFleet);
           $('#status-version').text(latestFleet.version);
           $('#status-state').text(latestFleet.status);
