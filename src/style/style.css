@@ -43,7 +43,7 @@ body {
 
 @media (max-width: 870px) {
   #logo-wrapper img {
-    display: inline;
+    width: 100%;
     margin: 0;
   }
 }
