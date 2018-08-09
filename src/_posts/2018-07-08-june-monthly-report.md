@@ -21,7 +21,8 @@ TheYawningWhale has done a huge amount of work pushing in new traits, or rather 
 
 
 <img class="full" src="/images/posts/june2018/traits.png" />
-*Some kind of trait image*
+*Look at that beautiful tooltip!*
 
 ## What's next?
 
+Next month will be polish, polish and more polish. The reason for this is that we are going to compete in the Swedish Game Awards! It's going to be tight to get all thing that we want in place before the judges!
