@@ -11,12 +11,16 @@
   {% include head.html %}
 
   <body>
-    <div id="status-div" style="position: absolute; right: 10px; top: 10px; background-color: rgba(66,57,34,0.55); border: 1px solid #58658E; padding: 0.75em;">
-      <span id="status-version" style="color: white;"></span>
-      <br />
-      <span style="color: white;">Status: </span><span id="status-state"></span>
-      <br />
-      <span id="status-instances" style="color: white;"></span>
+    <div id="status-div">
+      <div class="status-row">
+        <span id="status-version" style="color: white;"></span>
+      </div>
+      <div class="status-row">
+        <span style="color: white;">Status: </span><span id="status-state"></span>
+      </div>
+      <div class="status-row">
+        <span id="status-instances" style="color: white;"></span>
+      </div>
     </div>
     {% include logo.html %}
     {% include menu.html %}
