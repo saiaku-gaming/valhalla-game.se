@@ -12,7 +12,7 @@ The game takes inspiration from MMORPGS, the instances and dungeons from WoW, Gu
 
 <img class="full" src="/images/challenges1.png" />
 
-Jump straight into the action beginning with campaigns and unravel what's currently going on in the world of the aesirs. No need for grind or arbitrary level requirements; if you and you're party are good enough you will be able to progress. However, specializing your roles will be beneficial.
+Jump straight into the action beginning with campaigns and unravel what's currently going on in the world of the æsirs. No need for grind or arbitrary level requirements; if you and your party are skilled enough you will be able to progress. However, specializing your roles will be beneficial.
 
 ##Character Progression
 In order to spice things up in Valhall the gods lend out gifts, empowering the fallen vikings in certain ways. However, a person can only get so strong before the gods refuse to give him more power, unless he's willing to also bear some curses that is. The idea is that characters never become strictly better, they become more specialized. 
@@ -25,13 +25,13 @@ In order to spice things up in Valhall the gods lend out gifts, empowering the f
 
 To gain access to more traits, and more equipment to use, characters can achieve feats of strengths during the challenges. Some might be to just finish the mission, while others might be finding side quests or adding extra arbitrary difficulty by finishing with certain restrictions.
 
-<img class="full" src="/images/feats1.png" />
+<img class="full" src="/images/feats.png" />
 
 ##Cooperation
 The combat is quick and often quite chaotic; good communication and quick adaptation is often of the essence. Sometimes the party is better off going together, while at other times it might be better to spread out across the map in smaller groups, doing things simultaneously while synchronizing with eachother. 
 
 <div class="youtube" data-id="AzWtgniSw4M"></div>
-*Example of what a PvP fight might look like, spontaneously occuring in Valhalla*
+*Example of what a fight might look like, this time it was a 4v4 PvP fight spontaneously occuring in Valhalla*
 
 ##Some random notes:
 
