@@ -52,7 +52,7 @@ While one of us learned Maya, another one of us took the time to hone his photos
 <img class="full" src="/images/posts/2019february6.png" />
 *Comparing the old feat icons (above) with the new ones (below)*
 
-<img class="full" src="/images/posts/2019february5.png" />
+<img class="full" src="/images/posts/2019february7.png" />
 *While updating the icons the GUI in general is also getting a revamp where needed. Here we see the new icons in place in the feat menu*
 
 
