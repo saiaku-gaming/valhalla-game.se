@@ -60,7 +60,7 @@ While one of us learned Maya, another one of us took the time to hone his photos
 
 Apart from these major features, some other changes have been introduced as well:
 
-### Removal of Curse
+### Removal of Curses
 We're experimenting with removing the Curse aspect when skilling your character. Unlocking more trait slots will now be achieved through feats; so instead of the regular enemy grind you actually have to perform and finish something difficult to get your reward.
 
 ### Ranged Weapon Ammunition
@@ -74,8 +74,8 @@ You're now able to respawn in dungeons in a party wipe. The dungeon in its entir
 ### Hjuö
 With the new trait system and armor items in place, it's time to finally tackle the next map: Hjuö. It's by far the largest map we've created so far and the idea is it will focus on exploration and teach the players the value of stealth (or provide them with a very challenging fight if they choose to just attack head on which will be an option as always)
 
-<img class="full" src="/images/posts/2018december8.png" />
+<img class="full" src="/images/posts/2019february8.png" />
 *A small mountain pass*
 
-<img class="full" src="/images/posts/2018december9.png" />
+<img class="full" src="/images/posts/2019february9.png" />
 *A swamp on the northern part of the island*
