@@ -1,0 +1,6 @@
+FROM jekyll/jekyll
+MAINTAINER phrozen <phrozen@teamsamst.com>
+
+RUN gem install redcarpet
+
+CMD ["jekyll", "serve --force_polling --incremental"]

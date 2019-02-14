@@ -33,6 +33,11 @@
   <script type="text/javascript">
     $(document).ready(function() {
       var imgLink = $('.image-link');
+      imgLink.each((index, img) => {
+        if(!img.getAttribute('data-mfp-src') && img.getAttribute('src')){
+          img.setAttribute('data-mfp-src', img.getAttribute('src'));
+        }
+      });
       if(imgLink && imgLink.length > 0){
         imgLink.magnificPopup({type:'image'});
       }
