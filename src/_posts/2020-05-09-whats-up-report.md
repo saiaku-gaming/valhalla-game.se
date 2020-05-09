@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Valhalla Progress Report: May 2020"
-image: /images/posts/2020-may-report.png
+image: /images/posts/december-monthly-report-image.png
 author: PhroZen
 ---
 
