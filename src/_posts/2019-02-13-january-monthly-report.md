@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Valhalla Progress Report: December 2019 and January 2019"
+title:  "Valhalla Progress Report: December 2018 and January 2019"
 image: /images/posts/2019-february-monthly-report-image.png
 author: TheYawningWhale
 ---

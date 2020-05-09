@@ -1,64 +1,23 @@
-<!-- _includes/base.html -->
+<!DOCTYPE html>
+<html lang="en-us">
 {% assign base = '' %}
 {% assign depth = page.url | split: '/' | size | minus: 1 %}
 {% if    depth <= 1 %}{% assign base = '.' %}
 {% elsif depth == 2 %}{% assign base = '..' %}
 {% elsif depth == 3 %}{% assign base = '../..' %}
 {% elsif depth == 4 %}{% assign base = '../../..' %}{% endif %}
-<!DOCTYPE html>
-<html lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    <div id="status-div">
-      <div class="status-row">
-        <span id="status-version" style="color: white;"></span>
-      </div>
-      <div class="status-row">
-        <span style="color: white;">Status: </span><span id="status-state"></span>
-      </div>
-      <div class="status-row">
-        <span id="status-instances" style="color: white;"></span>
-      </div>
-    </div>
-    {% include logo.html %}
-    {% include menu.html %}
-    <div class="outer-content">
+<body>
+{% include logo.html %}
+{% include menu.html %}
+<div class="outer-content">
     <a name="head-anchor"> </a>
-		{% include nav-breadcrumbs.html %}
-		<div class="main-content">
-		  {{ content }}
-		</div>
-  </outer-content>
-  
-    <script>
-      $.get('https://ymer.valhalla-game.com/v1/public-instance/get-fleets', (res) => {
-        if(res) {
-          const latestFleet = res.reduce((highestVersionFleet, fleet) => {
-            if(!highestVersionFleet) {
-              return fleet;
-            }
-
-            return highestVersionFleet.version > fleet.version ? highestVersionFleet : fleet;
-          }, null);
-          
-          if(!latestFleet) {
-            $('#status-version').text('Version: n/a');
-            $('#status-state').text('MAINTENANCE');
-            $('#status-state').addClass('status-inactive');
-            $('#status-instances').text('Instances: 0');
-            return;
-          }
-
-          const status = latestFleet.instanceCount === 0 && latestFleet.status === 'ACTIVE' ? 'SLEEPING' : latestFleet.status;
-
-          $('#status-version').text(`Version: ${latestFleet.version}`);
-          $('#status-state').text(status);
-          $('#status-state').addClass((status === 'ACTIVE' ? 'status-active' : (status === 'SLEEPING' ? 'status-sleeping' : 'status-inactive')));
-          $('#status-instances').text(`Instances: ${latestFleet.instanceCount}`);
-        }
-      });    
-    </script>
-  </body>
+    {% include nav-breadcrumbs.html %}
+    <div class="main-content">
+        {{ content }}
+    </div>
+</div>
+</body>
 </html>
