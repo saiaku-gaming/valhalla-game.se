@@ -12,7 +12,7 @@ you are a cunning warrior!
 
 The game takes inspiration from MMORPGS, the instances and dungeons from WoW, GuildWars etc. Our focus is an RPG where 
 you and your friends can come together and beat different instances, with an emphasis on cooperation, exploration and
- adaptation. Hardcore gameplay are our core values, meaning firendly fire, quick melee fighting and seriously hard 
+ adaptation. Hardcore gameplay are our core values, meaning friendly fire, quick melee fighting and seriously hard 
  challenges.
 
 <img class="full" src="/images/challenges1.png" />
@@ -33,8 +33,6 @@ in smaller groups, doing things simultaneously while synchronizing with each oth
 
 * Built by three people in their spare time.
 * Built on [Unreal Engine 4](http://unreal.com)
-* The game is really early alpha, don't expect it to work.
 * Any feedback is always welcome!
 
 Will we be seeing you in Valhalla?
-<div class="youtube" data-id="fVrwWSGxGFo"></div>
